@@ -2,6 +2,6 @@
 
 # About Me
 
-Im a person who plays a game called Geometry Dash. Because of that, I use a website called [GDBrowser](gdbrowser.com) Made by [GDColon](https://github.com/GDColon). So one day, I went to the GitHub repository for GDBrowser, And i made an account. That's why im here!
+Im a person who plays a game called Geometry Dash. Because of that, I use a website called [GDBrowser](https://gdbrowser.com) Made by [GDColon](https://github.com/GDColon). So one day, I went to the GitHub repository for GDBrowser, And i made an account. That's why im here!
 
 (in progress, come back later)
