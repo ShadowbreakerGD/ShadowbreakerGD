@@ -1,7 +1,7 @@
 ![final_604f602c8c7cc70078812752_550597](https://user-images.githubusercontent.com/78216950/111160742-c56cb800-8570-11eb-9c0c-f7cef98ac47b.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowbreakerGD&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/ShadowbreakerGD/test-thing/blob/master/generated/overview.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowbreakerGD&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/ShadowbreakerGD/test-thing/blob/master/generated/languages.svg)
 
-![](https://komarev.com/ghpvc/?username=ShadowbreakerGD) [![Repos Badge](https://badges.pufler.dev/repos/ShadowbreakerGD)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/ShadowbreakerGD)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/all/ShadowbreakerGD)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=ShadowbreakerGD) [![Repos Badge](https://badges.pufler.dev/repos/ShadowbreakerGD)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/all/ShadowbreakerGD)](https://badges.pufler.dev)
