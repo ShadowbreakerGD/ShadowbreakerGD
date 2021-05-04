@@ -5,3 +5,5 @@
 ![](https://github.com/ShadowbreakerGD/test-thing/blob/master/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=ShadowbreakerGD) [![Repos Badge](https://badges.pufler.dev/repos/ShadowbreakerGD)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/all/ShadowbreakerGD)](https://badges.pufler.dev)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
