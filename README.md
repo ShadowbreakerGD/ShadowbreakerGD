@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShadowbreakerGD?tab=repositories](https://github.com/ShadowbreakerGD?tab=repositories)
 
-- ❌ THIZ LINK [DONT EXIZT](DONT EXIZT)
+- 😎 I am cool
 
-- 💬 Ask me about **How I’m not dead XD**
+- 💬 You can contact me if you know where :)
 
-- 🤩🤩 I R AMAZUNG!!!!11!!1!!1 **ITZ TRU!!!!!11!**
+- 🤩 Life is fun
 
-- ❌❌ neither does [This one](This one)
+- ❌ I dont like trolls
 
 - ⚡ Fun fact **I like to jump over spikes**
 
